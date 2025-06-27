@@ -1,0 +1,35 @@
+name: P4_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - graphviz  # System-level Graphviz
+  - python-graphviz  # Python bindings
+  - pillow  # For image processing (PIL)
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib  # For basic plotting
+  - seaborn  # For enhanced visualizations
+  - scipy  # Scientific computing
+  - statsmodels  # For statistical analysis
+  - jupyter  # For notebook support
+  - ipython  # Enhanced interactive Python
+  - pip:
+    - streamlit
+    - streamlit-option-menu
+    - streamlit-graphviz  # Optional for direct integration
+    - opencv-python  # If doing image processing
+    - plotly  # For interactive visualizations
+    - xgboost  # If using XGBoost model
+    - kaleido  # For static plotly image export
+    - pyarrow  # For efficient data handling
+    - protobuf<4.0.0  # Required for some streamlit dependencies
+    - tensorflow  # If using MLP/neural networks
+    - torch  # Alternative to tensorflow
+    - scikit-image  # For image processing
+    - nibabel  # For neuroimaging data (NIfTI support)
+    - h5py  # For HDF5 file support
+    - joblib  # For model persistence
