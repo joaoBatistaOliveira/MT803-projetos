@@ -1,7 +1,8 @@
 streamlit
+streamlit-option-menu
+graphviz
+Pillow
 pandas
 numpy
 plotly
-seaborn
-streamlit-option-menu
-scikit-learn
+matplotlib
