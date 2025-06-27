@@ -60,3 +60,4 @@ unicodedata2 @ file:///C:/b/abs_dfnftvxi4k/croot/unicodedata2_1736543771112/work
 urllib3==2.5.0
 watchdog==6.0.0
 zipp @ file:///C:/b/abs_2fcpcg89my/croot/zipp_1732630746332/work
+streamlit-option-menu
