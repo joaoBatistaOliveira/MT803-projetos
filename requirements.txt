@@ -1,62 +1,7 @@
-altair==5.5.0
-attrs==25.3.0
-blinker==1.9.0
-Brotli @ file:///C:/b/abs_c415aux9ra/croot/brotli-split_1736182803933/work
-cachetools==6.1.0
-certifi==2025.6.15
-charset-normalizer==3.4.2
-click==8.1.8
-colorama==0.4.6
-contourpy @ file:///C:/b/abs_b0lpi9pj9c/croot/contourpy_1738161183484/work
-cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
-fonttools @ file:///C:/b/abs_4crkswws2h/croot/fonttools_1737040078745/work
-gitdb==4.0.12
-GitPython==3.1.44
-graphviz @ file:///home/conda/feedstock_root/build_artifacts/python-graphviz_1749998426524/work
-idna==3.10
-importlib_resources @ file:///C:/b/abs_e9f8_0_2dq/croot/importlib_resources-suite_1720641112288/work
-Jinja2==3.1.6
-joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1748019130050/work
-jsonschema==4.24.0
-jsonschema-specifications==2025.4.1
-kiwisolver @ file:///C:/b/abs_88mdhvtahm/croot/kiwisolver_1672387921783/work
-MarkupSafe==3.0.2
-matplotlib==3.9.2
-mkl-service==2.4.0
-mkl_fft @ file:///C:/Users/dev-admin/mkl/mkl_fft_1730823082242/work
-mkl_random @ file:///C:/Users/dev-admin/mkl/mkl_random_1730822522280/work
-narwhals==1.44.0
-numpy @ file:///C:/b/abs_6emx8om0_1/croot/numpy_and_numpy_base_1736283274014/work/dist/numpy-2.0.2-cp39-cp39-win_amd64.whl#sha256=86a2988a3f61b9be02fd60b95d91c75a75422c62cb232c3a48b188843e2d11b6
-packaging==25.0
-pandas==2.3.0
-pillow==11.2.1
-plotly @ file:///opt/conda/envs/env/conda-bld/plotly_1738091316609/work/packages/python/plotly/dist/plotly-6.0.0.tar.gz#sha256=0b7834e43d05901cd1945fec77e668f6f07505ff4658f1a07632bdb7a0e8ec91
-protobuf==6.31.1
-pyarrow==20.0.0
-pydeck==0.9.1
-pyparsing @ file:///C:/b/abs_40z8gyj9wi/croot/pyparsing_1731445739241/work
-PyQt6==6.7.1
-PyQt6_sip @ file:///C:/b/abs_f47pmp6xmn/croot/pyqt-split_1744804513582/work/pyqt_sip
-python-dateutil @ file:///C:/b/abs_3au_koqnbs/croot/python-dateutil_1716495777160/work
-pytz==2025.2
-referencing==0.36.2
-requests==2.32.4
-rpds-py==0.25.1
-scikit-learn @ file:///C:/b/abs_0dwalqot3o/croot/scikit-learn_1737988780693/work/dist/scikit_learn-1.6.1-cp39-cp39-win_amd64.whl#sha256=5d1fd0a91f9c244e66bf5bcca98333fb0af3ed1fea525b6d0398fc53eb9dc17f
-scipy @ file:///C:/Users/dev-admin/cr_scipy-feedstock/scipy_1733774324044/work/dist/scipy-1.13.1-cp39-cp39-win_amd64.whl#sha256=f7218697f964ae4372cdcb6f20a05db0d338ccc574c96e9dbf235ed6547dd462
-sip @ file:///C:/b/abs_5cto136kse/croot/sip_1738856220313/work
-six==1.17.0
-smmap==5.0.2
-streamlit==1.46.0
-streamlit-option-menu==0.4.0
-tenacity==9.1.2
-threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1741878222898/work
-toml==0.10.2
-tomli @ file:///C:/Windows/TEMP/abs_ac109f85-a7b3-4b4d-bcfd-52622eceddf0hy332ojo/croots/recipe/tomli_1657175513137/work
-tornado==6.5.1
-typing_extensions==4.14.0
-tzdata==2025.2
-unicodedata2 @ file:///C:/b/abs_dfnftvxi4k/croot/unicodedata2_1736543771112/work
-urllib3==2.5.0
-watchdog==6.0.0
-zipp @ file:///C:/b/abs_2fcpcg89my/croot/zipp_1732630746332/work
+streamlit
+pandas
+numpy
+plotly
+seaborn
+streamlit-option-menu
+scikit-learn
