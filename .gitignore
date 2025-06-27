@@ -1,0 +1,46 @@
+
+---
+
+### 🛑 **`.gitignore`**
+
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.ipynb_checkpoints
+*.egg-info/
+.Python
+.env
+.venv/
+*.env
+*.venv
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Streamlit
+.streamlit/config.toml
+
+# Dados
+*.csv
+*.xlsx
+*.tsv
+data/
+figures/
+
+# Arquivos de saída
+outputs/
